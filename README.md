@@ -6,7 +6,7 @@ Repository ini digunakan untuk Project Akhir mata kuliah Pengembangan Aplikasi M
 
 ## Dokumen SRS
 
-[SRS Savers — Google Docs](https://docs.google.com/document/d/1XT27gxinHO_Ovg0fflHlBtPJ834ELYBstu-APiTE3tU/edit?usp=sharing)
+[SRS Savers — Google Docs](https://docs.google.com/document/d/1aZGEV3Hqn4YbFgsdjfLHs4z3O_-ZLmrP/edit)
 
 SRS harus mengikuti template yang diberikan untuk mata kuliah. Cakupan dokumen mencakup kebutuhan dan fitur sistem, use case di Bab 2, flowchart dan activity diagram untuk setiap fitur di Bab 3, serta ERD dan Relasi Antar Tabel (RAT) di Bab 6. Kesesuaian isi dokumen dengan template akan ditinjau sebelum SRS ditetapkan.
 
